@@ -30,6 +30,8 @@
         "react-hooks/rules-of-hooks": "error",
         "no-unused-vars": "warn",
         "no-empty-function": "off",
+        "camelcase": "off",
+        "@typescript-eslint/camelcase": ["off"],
         "@typescript-eslint/no-empty-function": ["warn"],
         "react-hooks/exhaustive-deps": "warn",
         "react/jsx-filename-extension": [1, {"extensions": [".tsx"]}],
